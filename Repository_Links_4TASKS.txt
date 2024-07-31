@@ -1,0 +1,20 @@
+TASK#1 Link:
+
+https://github.com/Moeed-23/Tictactoe-DEP
+
+
+
+TASK#2 Link:
+
+https://github.com/Moeed-23/emailspam-classifier
+
+
+TASK#3 Link:
+
+https://github.com/Moeed-23/neuralnetwork
+
+
+
+TASK#4 Link:
+
+https://github.com/Moeed-23/NLP-Model
